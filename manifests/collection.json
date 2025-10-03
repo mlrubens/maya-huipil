@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mlrubens.github.io/maya-huipil/manifests/maya-huipil.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mlrubens.github.io/maya-huipil/manifests/mayahuipil.json",
+    "label" : "[Click to edit label]"
   } ]
 }
