@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mlrubens.github.io/maya-huipil/manifests/mayahuipil.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mlrubens.github.io/maya-huipil/manifests/manifest2.json",
+    "label" : "Test Manifest"
   } ]
 }
