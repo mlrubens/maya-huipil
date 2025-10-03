@@ -1,0 +1,13 @@
+{
+  "id" : "https://mlrubens.github.io/maya-huipil/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in mlrubens/maya-huipil project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mlrubens.github.io/maya-huipil/manifests/maya-huipil.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
