@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://mlrubens.github.io/maya-huipil/manifests/maya-huipil.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "Test Manifest",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "A small collection of Maya huipils from the Fine Arts Center at Colorado College",
