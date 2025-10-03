@@ -1,0 +1,206 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mlrubens.github.io/maya-huipil/manifests/mayahuipil.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A small collection of Maya huipils from the Fine Arts Center at Colorado College",
+    "@language" : "en"
+  } ],
+  "license" : "Creative Commons 4.0 by-nc-sa",
+  "attribution" : "Photo by Meghan Rubenstein",
+  "sequences" : [ {
+    "@id" : "http://92b575c0-3877-444a-aa2f-0037a80c1cca",
+    "@type" : "sc:Sequence",
+    "label" : "Normal Sequence",
+    "canvases" : [ {
+      "@id" : "http://371f39bf-33a1-4831-99dc-3cf9b882b3dd",
+      "@type" : "sc:Canvas",
+      "label" : "El Quiche, Sacapulas - front",
+      "height" : 3712,
+      "width" : 5568,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fee1aa7d-6773-46ca-ab18-3ba524ca732f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/iiif/fac-tm-791-el-quiche-sacalupas-front-01/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/iiif/fac-tm-791-el-quiche-sacalupas-front-01",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 20668416,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3712,
+          "width" : 5568
+        },
+        "on" : "http://371f39bf-33a1-4831-99dc-3cf9b882b3dd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4395f93c-042f-401a-bf0b-c554c4023a2a",
+      "@type" : "sc:Canvas",
+      "label" : "El Quiche, Sacapulas - neck",
+      "height" : 2000,
+      "width" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://be804f91-4c7f-4079-a5a1-c185bbbdcbb0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/iiif/fac-tm-791-el-quiche-sacalupas-top-01/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/iiif/fac-tm-791-el-quiche-sacalupas-top-01",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 6000000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 2000,
+          "width" : 3000
+        },
+        "on" : "http://4395f93c-042f-401a-bf0b-c554c4023a2a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://fe3c65e3-6329-4dab-8d50-ffe88e33798b",
+      "@type" : "sc:Canvas",
+      "label" : "El Quiche, Santo Tomás Chichicastenango - front",
+      "height" : 2000,
+      "width" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4a7306b5-2bf5-44bb-bb02-1d8b29441a7b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/iiif/fac-tm-624-el-quiche-santo-tomas-chichicastenango-front-02/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/iiif/fac-tm-624-el-quiche-santo-tomas-chichicastenango-front-02",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 6000000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 2000,
+          "width" : 3000
+        },
+        "on" : "http://fe3c65e3-6329-4dab-8d50-ffe88e33798b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f43fa7df-89f6-48c7-bdf4-c72622ac72da",
+      "@type" : "sc:Canvas",
+      "label" : "El Quiche, Santo Tomás Chichicastenango - neck",
+      "height" : 2000,
+      "width" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e77ace48-94f4-43bc-bcfd-6a26e8914d8f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/iiif/fac-tm-624-el-quiche-santo-tomas-chichicastenango-top-02/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/iiif/fac-tm-624-el-quiche-santo-tomas-chichicastenango-top-02",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 6000000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 2000,
+          "width" : 3000
+        },
+        "on" : "http://f43fa7df-89f6-48c7-bdf4-c72622ac72da"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bc87d44a-616b-463d-b224-1721cc312e66",
+      "@type" : "sc:Canvas",
+      "label" : "Sacatepéquez, Santo Domingo Xenacoj - front",
+      "height" : 2000,
+      "width" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4185b60b-0e56-4117-be9e-7f85fff80df0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/iiif/fac-tm-739-sacatepequez-santo-domingo-xenacoj-front/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/iiif/fac-tm-739-sacatepequez-santo-domingo-xenacoj-front",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 6000000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 2000,
+          "width" : 3000
+        },
+        "on" : "http://bc87d44a-616b-463d-b224-1721cc312e66"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://07337ec4-f771-4f57-afe4-4ffbe777b62f",
+      "@type" : "sc:Canvas",
+      "label" : "Sacatepéquez, Santo Domingo Xenacoj - neck",
+      "height" : 2000,
+      "width" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://488ec7f4-72bc-4c94-b757-96832e4218ce",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/iiif/fac-tm-739-sacatepequez-santo-domingo-xenacoj-top-01/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/iiif/fac-tm-739-sacatepequez-santo-domingo-xenacoj-top-01",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 6000000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 2000,
+          "width" : 3000
+        },
+        "on" : "http://07337ec4-f771-4f57-afe4-4ffbe777b62f"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
